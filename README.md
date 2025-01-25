@@ -1,5 +1,4 @@
-# Project Name
->`Bike Sharing Case Study`
+# `Bike Sharing Case Study`
 
 
 ## Table of Contents
